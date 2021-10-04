@@ -1,51 +1,51 @@
 [submodule "pg_async"]
 	path = pg_async
-	url = https://github.com/RekGRpth/pg_async.git
+	url = https://github.com/RekGRpth/pg_async
 [submodule "pg_curl"]
 	path = pg_curl
-	url = https://github.com/RekGRpth/pg_curl.git
+	url = https://github.com/RekGRpth/pg_curl
 [submodule "pg_handlebars"]
 	path = pg_handlebars
-	url = https://github.com/RekGRpth/pg_handlebars.git
+	url = https://github.com/RekGRpth/pg_handlebars
 [submodule "pg_htmldoc"]
 	path = pg_htmldoc
-	url = https://github.com/RekGRpth/pg_htmldoc.git
+	url = https://github.com/RekGRpth/pg_htmldoc
 [submodule "pg_jobmon"]
 	path = pg_jobmon
-	url = https://github.com/RekGRpth/pg_jobmon.git
+	url = https://github.com/RekGRpth/pg_jobmon
 [submodule "pgjwt"]
 	path = pgjwt
-	url = https://github.com/RekGRpth/pgjwt.git
+	url = https://github.com/RekGRpth/pgjwt
 [submodule "pg_mustach"]
 	path = pg_mustach
-	url = https://github.com/RekGRpth/pg_mustach.git
+	url = https://github.com/RekGRpth/pg_mustach
 [submodule "pg_partman"]
 	path = pg_partman
-	url = https://github.com/RekGRpth/pg_partman.git
+	url = https://github.com/RekGRpth/pg_partman
 [submodule "pg_profile"]
 	path = pg_profile
-	url = https://github.com/RekGRpth/pg_profile.git
+	url = https://github.com/RekGRpth/pg_profile
 [submodule "pg_repack"]
 	path = pg_repack
-	url = https://github.com/RekGRpth/pg_repack.git
+	url = https://github.com/RekGRpth/pg_repack
 [submodule "pg_save"]
 	path = pg_save
-	url = https://github.com/RekGRpth/pg_save.git
+	url = https://github.com/RekGRpth/pg_save
 [submodule "pg_ssl"]
 	path = pg_ssl
-	url = https://github.com/RekGRpth/pg_ssl.git
+	url = https://github.com/RekGRpth/pg_ssl
 [submodule "pg_stat_kcache"]
 	path = pg_stat_kcache
-	url = https://github.com/RekGRpth/pg_stat_kcache.git
+	url = https://github.com/RekGRpth/pg_stat_kcache
 [submodule "pg_task"]
 	path = pg_task
-	url = https://github.com/RekGRpth/pg_task.git
+	url = https://github.com/RekGRpth/pg_task
 [submodule "pldebugger"]
 	path = pldebugger
-	url = https://github.com/RekGRpth/pldebugger.git
+	url = https://github.com/RekGRpth/pldebugger
 [submodule "plsh"]
 	path = plsh
-	url = https://github.com/RekGRpth/plsh.git
+	url = https://github.com/RekGRpth/plsh
 [submodule "prefix"]
 	path = prefix
 	url = https://github.com/RekGRpth/prefix.git
